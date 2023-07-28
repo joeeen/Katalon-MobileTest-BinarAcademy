@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "EC6E6EFEA7A55F9B316EF2BEE8493D09",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.AddProduct",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

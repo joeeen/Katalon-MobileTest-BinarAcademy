@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input mandatory fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23123794-75c9-4567-9369-4cabee50e397</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebd88ac5-4081-4c58-a2d6-f87936d341da</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37566cc9-f8bb-4517-8f45-87c661d23351</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58be1513-3028-48d9-9efa-41e7be0cfe5e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fa3b598-331d-47c0-8622-2ea63b77f87d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b056f215-75b6-4258-84e1-795e81d7068b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Book'</defaultValue>
+      <description></description>
+      <id>ebd88ac5-4081-4c58-a2d6-f87936d341da</id>
+      <masked>false</masked>
+      <name>product_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'100000'</defaultValue>
+      <description></description>
+      <id>37566cc9-f8bb-4517-8f45-87c661d23351</id>
+      <masked>false</masked>
+      <name>product_price</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hobi dan Koleksi'</defaultValue>
+      <description></description>
+      <id>58be1513-3028-48d9-9efa-41e7be0cfe5e</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta'</defaultValue>
+      <description></description>
+      <id>3fa3b598-331d-47c0-8622-2ea63b77f87d</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+   <variable>
+      <defaultValue>'New book, 100 pages'</defaultValue>
+      <description></description>
+      <id>b056f215-75b6-4258-84e1-795e81d7068b</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

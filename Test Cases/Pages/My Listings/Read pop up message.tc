@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read pop up message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c74474d3-77ae-4ebd-9329-e9ca854f252f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23591218-9f1e-43a7-b002-34d46732045f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Produk berhasil diterbitkan'</defaultValue>
+      <description></description>
+      <id>23591218-9f1e-43a7-b002-34d46732045f</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

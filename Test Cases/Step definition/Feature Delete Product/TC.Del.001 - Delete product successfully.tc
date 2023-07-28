@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Del.001 - Delete product successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c02aa433-4b04-42fa-8952-0ddfb0d49a54</testCaseGuid>
+</TestCaseEntity>

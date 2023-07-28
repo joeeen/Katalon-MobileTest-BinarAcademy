@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf828330-917f-4405-8806-ff24cd3ec420</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>517c613f-814a-4b23-ac58-8d8971aeb5cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ac16dac-aacd-4870-8cf2-cdc9d92c2474</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9941582c-a665-4680-92fa-62428e745a40</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>517c613f-814a-4b23-ac58-8d8971aeb5cd</id>
+      <masked>false</masked>
+      <name>expected_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ac16dac-aacd-4870-8cf2-cdc9d92c2474</id>
+      <masked>false</masked>
+      <name>expected_price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9941582c-a665-4680-92fa-62428e745a40</id>
+      <masked>false</masked>
+      <name>expected_category</name>
+   </variable>
+</TestCaseEntity>

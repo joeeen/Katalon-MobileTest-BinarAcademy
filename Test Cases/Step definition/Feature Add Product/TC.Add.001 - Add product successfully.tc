@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.Add.001 - Add product successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7be5a5e-d1fd-41bd-bffb-f89447f6c743</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54e2d3bd-5e28-4b2c-849e-2d84b745183b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96ff37bc-d8c4-41e0-a252-fea3822bea3d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8dc9caf-a3f3-4f8c-9911-69804b76b2ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Book'</defaultValue>
+      <description></description>
+      <id>54e2d3bd-5e28-4b2c-849e-2d84b745183b</id>
+      <masked>false</masked>
+      <name>expected_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'100000'</defaultValue>
+      <description></description>
+      <id>96ff37bc-d8c4-41e0-a252-fea3822bea3d</id>
+      <masked>false</masked>
+      <name>expected_price</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hobi dan Koleksi'</defaultValue>
+      <description></description>
+      <id>f8dc9caf-a3f3-4f8c-9911-69804b76b2ee</id>
+      <masked>false</masked>
+      <name>expected_category</name>
+   </variable>
+</TestCaseEntity>

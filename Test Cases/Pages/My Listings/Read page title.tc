@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read page title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb41588-1370-4e38-a918-9fc58e52cb87</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d799e92c-a6ba-47c7-8204-baa1571871e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Daftar Jual Saya'</defaultValue>
+      <description></description>
+      <id>d799e92c-a6ba-47c7-8204-baa1571871e8</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
