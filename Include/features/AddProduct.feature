@@ -14,5 +14,5 @@ Feature: Add Product
     Then the product is added to my listings
 
     Examples: 
-      | product_name | product_price | category         | location | description         |
-      | Book         |        100000 | Hobi dan Koleksi | Jakarta  | New book, 100 pages |
+      | product_name | product_price | category         | location  | description         |
+      | Book         |        100000 | Hobi dan Koleksi | Jakarta   | New book, 100 pages |

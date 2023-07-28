@@ -30,7 +30,7 @@ public class AddProduct {
 
 	@When("the seller inputs {string}, {string}, {string}, {string}, and {string}")
 	def the_seller_inputs(String product_name, String product_price, String category, String location, String description) {
-		Mobile.callTestCase(findTestCase('Pages/Add Product/Input mandatory fields'), [('product_name') : product_name, ('product_price') : '100000'
+		Mobile.callTestCase(findTestCase('Pages/Add Product/Input mandatory fields'), [('product_name') : product_name, ('product_price') : product_price
 			, ('category') : category, ('location') : location, ('description') : description], FailureHandling.STOP_ON_FAILURE)
 	}
 

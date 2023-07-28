@@ -29,17 +29,17 @@ class Hook {
 	Mobile.startApplication('Apk/app-release-second-hand-gcp.apk', true)
   }
 	
-  @BeforeTestCase
-  def beforeTestCase(TestCaseContext testCaseContext) {
-	KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
-	this.launchApp()
-  }
+//  @BeforeTestCase
+//  def beforeTestCase(TestCaseContext testCaseContext) {
+//	KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
+//	this.launchApp()
+//  }
 
-  @AfterTestCase
-  def afterTestCase(TestCaseContext testCaseContext) {
-	KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
-	Mobile.closeApplication()
- }
+//  @AfterTestCase
+//  def afterTestCase(TestCaseContext testCaseContext) {
+//	KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
+//	Mobile.closeApplication()
+// }
 
   @BeforeTestSuite
   def beforeTestSuite(TestSuiteContext testSuiteContext) {

@@ -27,11 +27,11 @@ public class DeleteProduct {
 	@Given("the seller adds a new product")
 	def the_seller_adds_a_new_product() {
 		Mobile.callTestCase(findTestCase('Step Definition/Precondition/Precondition - Add Product'), [:], FailureHandling.STOP_ON_FAILURE)
-		Mobile.delay(10)
 	}
 
 	@When("the seller deletes the product")
 	def the_seller_deletes_the_product() {
+		Mobile.delay(5)
 		Mobile.callTestCase(findTestCase('Pages/My Listings/Delete Product'), [:], FailureHandling.STOP_ON_FAILURE)
 	};
 
