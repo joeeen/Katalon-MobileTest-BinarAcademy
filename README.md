@@ -28,7 +28,7 @@ This project requires the following:
 
 1. Open Katalon Studio
 2. Clone git project
-   - Repository URL: `https://github.com/joeeen/KatalonMobile-BinarAcademy.git`
+   - Repository URL: `https://github.com/joeeen/Katalon-MobileTest-BinarAcademy.git`
    - Fill in the Authentication datas (optional)
    - Select main branch
    - Adjust the destination directory
